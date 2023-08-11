@@ -112,6 +112,7 @@
 - [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX/tree/v15)
 - [Spark](https://github.com/lucko/spark/tree/feat/folia), 未来将内置于Folia
 - [TAB](https://github.com/NEZNAMY/TAB/tree/v4), 您可以从此处下载功能不完全的版本 [download](https://cdn.discordapp.com/attachments/959396853592490004/1096427335986720858/TAB.v3.3.2.jar) for semi functional plugin
+- [CMI](https://github.com/Zrips/CMI/issues/8018)
 
 ## 插件开发所需的库和框架
 为插件开发者提供的库和框架。
